@@ -1,0 +1,19 @@
+{
+    "presets": [
+      ["babel-preset-env", {
+        "spec": false,
+        "useBuiltIns":"usage",
+        "modules": false,
+        "loose": false
+      }]
+    ],
+    "plugins": [
+      "babel-plugin-syntax-jsx",
+      "babel-plugin-transform-react-jsx",
+      "react-hot-loader/babel",
+      ["import", {
+        "libraryName": "antd",
+        "style": "css"
+      }]
+    ]
+}
