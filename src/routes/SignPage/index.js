@@ -8,7 +8,7 @@ export default class SignPage extends React.Component{
     render(){
         return (
             <div>
-                sign page
+                sign pagesss
             </div>
 
         )

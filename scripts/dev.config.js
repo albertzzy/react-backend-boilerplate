@@ -6,8 +6,6 @@ const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPl
 const HtmlWebpackIncludeAssetsPlugin = require('html-webpack-include-assets-plugin');
 
 
-// console.log(path.join(path.resolve(__dirname,'../dev'),'/dll'));
-
 
 module.exports = {
     devtool:'cheap-eval-source-map',
@@ -213,6 +211,9 @@ module.exports = {
             generateStatsFile: true,
             statsFilename: 'stats.json'
         }) */
+        new webpack.DefinePlugin({
+            DEV:JSON.stringify(true)
+        })
 
     ]
 

@@ -25,15 +25,19 @@ render(
 
 
 // hot reloader
-if (module.hot) {
-    module.hot.accept('./routes/rootRoutes', () => {
-        const nextRoutes = require('./routes/rootRoutes').default;
-        render(
-        <AppContainer>
-            <Provider store={store}>
-                <Router key={Math.random()} history={hashHistory} routes={nextRoutes} />
-            </Provider>
-        </AppContainer>,
-        document.getElementById('app'));
-    });
+
+if(DEV){
+
+    if (module.hot) {
+            module.hot.accept('./routes/rootRoutes', () => {
+                const nextRoutes = require('./routes/rootRoutes').default;
+                render(
+                    <AppContainer>
+                <Provider store={store}>
+                    <Router key={Math.random()} history={hashHistory} routes={nextRoutes} />
+                </Provider>
+            </AppContainer>,
+            document.getElementById('app'));
+        });
+    }
 }
