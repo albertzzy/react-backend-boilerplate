@@ -15,3 +15,6 @@ file-loader  和 HtmlWebpackPlugin 冲突[https://stackoverflow.com/questions/43
 
 
 [https://zhuanlan.zhihu.com/p/21748318](https://zhuanlan.zhihu.com/p/21748318)
+
+
+ant-design组件的样式加载应该先把全局样式加载，不然回退到一个没有引用任何组件的页面，会受到组件页面带着的全局样式影响。

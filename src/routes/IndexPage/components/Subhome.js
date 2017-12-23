@@ -8,7 +8,7 @@ export default class SubIndexPage extends React.Component{
 
     render(){
         return (
-            <div>sub index page</div>
+            <div>sub index pages</div>
 
         )
 

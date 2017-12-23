@@ -8,7 +8,7 @@ import { AppContainer } from 'react-hot-loader';
 
 import store from './store';
 import rootRoutes from './routes/rootRoutes';
-
+// import 'antd/dist/antd.css';
 
 // const history = syncHistoryWithStore(browserHistory, store)
 
@@ -25,7 +25,6 @@ render(
 
 
 // hot reloader
-
 if(DEV){
 
     if (module.hot) {
