@@ -16,8 +16,7 @@ module.exports = (env)=>{
 		plugins:[]
 	}
 
-
-	if(env.prod){
+	if(typeof env != 'undefined' && env.prod){
 		output = {
 			path:path.resolve(__dirname,"../dist/dll"),
 			filename:"[name].[hash:8].dll.js",
