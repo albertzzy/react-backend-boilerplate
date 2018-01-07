@@ -1,12 +1,19 @@
 export default {
     path: '/',
-    component: require('./index.js').default,
+    component: require('./IndexPage/index.js').default,
     indexRoute:{
-        component:require('./SignPage').default
+        component:require('./IndexPage/nav11.js').default
     },
     childRoutes: [
         {
-            path: 'home',
+            path:'sign',
+            getComponent(nextState, cb) {
+                require.ensure([], (require) => {
+                    cb(null, require('./SignPage').default)
+                })
+            }
+
+           /*  path: 'home',
             getComponent(nextState, cb) {
                 require.ensure([], (require) => {
                     cb(null, require('./IndexPage/components/Home.js').default)
@@ -22,7 +29,25 @@ export default {
                     }
                 }
 
-            ]
+            ] */
+        },
+        {
+            path:'nav12',
+            getComponent(nextState, cb) {
+                require.ensure([], (require) => {
+                    cb(null, require('./IndexPage/nav12.js').default)
+                })
+            }
+
+        },
+        {
+            path:'nav13',
+            getComponent(nextState, cb) {
+                require.ensure([], (require) => {
+                    cb(null, require('./IndexPage/nav13.js').default)
+                })
+            }
+
         }
 
 

@@ -15,7 +15,6 @@ export default class SignPage extends React.Component{
 
     }
 
-
 }
 
 

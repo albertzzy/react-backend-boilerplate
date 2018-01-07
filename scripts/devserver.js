@@ -40,7 +40,23 @@ app.use(webpackHotMiddleware(compiler,{
 }))
 
 // mock
+app.get('/getlist',(req,res,next)=>{
 
+        res.json({
+            success:true,
+            data:[
+                {
+                    name:'aaaa'
+                },
+                {
+                    name:'bbb'
+                }
+            ]
+        })
+
+
+
+})
 
 
 

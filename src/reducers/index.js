@@ -1,8 +1,8 @@
 import {combineReducers} from 'redux';
-import home from './home'
+import nav11 from './nav11'
 
 
 
 export default combineReducers({
-    home
+    nav11
 })
