@@ -52,11 +52,11 @@ export default class App extends React.Component{
                     <div className={style["logo"]}>
                         logo
                     </div>
-                    <Menu theme="dark" mode="inline" defaultSelectedKeys={['sm1']} defaultOpenKeys={['m1']}>
-                        <SubMenu key="m1" title={<span><Icon type="user" />nav 1</span>}>
-                            <Menu.Item key="sm1"><Link to="/user">选项1</Link></Menu.Item>
-                            <Menu.Item key="sm2"><Link to="/user/nav12">选项2</Link></Menu.Item>
-                            <Menu.Item key="sm3"><Link to="/user/nav13">选项3</Link></Menu.Item>
+                    <Menu theme="dark" mode="inline" defaultSelectedKeys={['sm11']} defaultOpenKeys={['m1']}>
+                        <SubMenu key="m1" title={<span><Icon type="user" /><span>nav 1</span></span>}>
+                            <Menu.Item key="sm11"><Link to="/user">选项1</Link></Menu.Item>
+                            <Menu.Item key="sm12"><Link to="/user/nav12">选项2</Link></Menu.Item>
+                            <Menu.Item key="sm13"><Link to="/user/nav13">选项3</Link></Menu.Item>
                         </SubMenu>
                         <Menu.Item key="m2">
                             <Icon type="video-camera" />
