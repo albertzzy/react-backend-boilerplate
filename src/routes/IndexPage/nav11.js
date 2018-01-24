@@ -34,7 +34,7 @@ class IndexPage extends React.Component{
                     <Breadcrumb.Item>nav11</Breadcrumb.Item>
                 </Breadcrumb>
                 <Content style={{ margin: '0 16px', padding: 24, background: '#fff', minHeight: 280 }}>
-                    this is nav1 index page  nav11
+                    this is nav1 index page  nav111
                     <List item={this.props.list}/>
                 </Content>
             </div> 

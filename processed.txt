@@ -1,0 +1,292 @@
+Code move event for unknown code: 0xae
+Code move event for unknown code: 0xae
+Code move event for unknown code: 0xae
+Code move event for unknown code: 0x8ff
+Code move event for unknown code: 0x2
+Code move event for unknown code: 0x3
+Code move event for unknown code: 0x3
+Code move event for unknown code: 0x3
+Code move event for unknown code: 0x3
+Code move event for unknown code: 0x3
+Code move event for unknown code: 0x3
+Code move event for unknown code: 0x3
+Code move event for unknown code: 0x12e
+Code move event for unknown code: 0x5a293
+Code move event for unknown code: 0x3
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0xf02
+Code move event for unknown code: 0xf02
+Code move event for unknown code: 0xf02
+Code move event for unknown code: 0xf02
+Code move event for unknown code: 0x21
+Code move event for unknown code: 0x21
+Code move event for unknown code: 0x21
+Code move event for unknown code: 0x21
+Code move event for unknown code: 0x21
+Code move event for unknown code: 0x21
+Code move event for unknown code: 0x21
+Code move event for unknown code: 0x1920b5
+Code move event for unknown code: 0x1920b5
+Code move event for unknown code: 0x1920b5
+Code move event for unknown code: 0x6
+Code move event for unknown code: 0x2
+Code move event for unknown code: 0xa1d
+Code move event for unknown code: 0x2
+Code move event for unknown code: 0x2
+Code move event for unknown code: 0x2
+Code move event for unknown code: 0x2
+Code move event for unknown code: 0x2
+Code move event for unknown code: 0x2
+Code move event for unknown code: 0x2
+Code move event for unknown code: 0x13f
+Code move event for unknown code: 0x195
+Code move event for unknown code: 0x195
+Code move event for unknown code: 0x195
+Code move event for unknown code: 0x195
+Code move event for unknown code: 0x195
+Code move event for unknown code: 0x195
+Code move event for unknown code: 0x195
+Code move event for unknown code: 0x195
+Code move event for unknown code: 0x27
+Code move event for unknown code: 0x13f
+Code move event for unknown code: 0x27
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x195
+Code move event for unknown code: 0x195
+Code move event for unknown code: 0x195
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x1
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x1
+Code move event for unknown code: 0x2
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x4
+Code move event for unknown code: 0x397
+Code move event for unknown code: 0x397
+Code move event for unknown code: 0xc85
+Code move event for unknown code: 0xc85
+Code move event for unknown code: 0xc85
+Code move event for unknown code: 0xc85
+Code move event for unknown code: 0xc85
+Code move event for unknown code: 0xc85
+Code move event for unknown code: 0xc
+Code move event for unknown code: 0x24
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Code move event for unknown code: 0x0
+Statistical profiling result from isolate-000002157FDCE260-v8.log, (64493 ticks, 62718 unaccounted, 0 excluded).
+
+ [Shared libraries]:
+   ticks  total  nonlib   name
+     50    0.1%          C:\Program Files\nodejs\node.exe
+
+ [JavaScript]:
+   ticks  total  nonlib   name
+    205    0.3%    0.3%  Function: ~Join native array.js:121:14
+     22    0.0%    0.0%  RegExp: [ \\n\\t\\r\\f\\{\\(\\)'"\\\\;/\\[\\]#]
+     19    0.0%    0.0%  RegExp: (^|[^:"'=]):\\-moz\\-placeholder
+     16    0.0%    0.0%  RegExp: __+
+     15    0.0%    0.0%  RegExp: ^\\w+:\\/\\/
+     13    0.0%    0.0%  RegExp: \\w|@
+     10    0.0%    0.0%  RegExp: ^_
+      9    0.0%    0.0%  RegExp: ^[-+]?(?:\\d+(?:\\.\\d*)?|\\.\\d+)(e[-+]?\\d+)?$
+      8    0.0%    0.0%  RegExp: \\.(png|jpg|jpeg|gif)(\\?v=\\d+\\.\\d+\\.\\d+)?$
+      7    0.0%    0.0%  RegExp: [ ]+$
+      6    0.0%    0.0%  RegExp: data1([^0-9])
+      6    0.0%    0.0%  RegExp: ^(?:[a-zA-Z]:|[\\\\/]{2}[^\\\\/]+[\\\\/][^\\\\/]+)?[\\\\/]*
+      6    0.0%    0.0%  RegExp: \\bgfs4\\b
+      5    0.0%    0.0%  RegExp: ^\\.[\\/\\\\]
+      5    0.0%    0.0%  RegExp: ^0[ob]
+      4    0.0%    0.0%  RegExp: data3[^0-9]
+      4    0.0%    0.0%  RegExp: animation(-name)?$
+      4    0.0%    0.0%  RegExp: ^[ ]+ {1}
+      4    0.0%    0.0%  RegExp: ^:import\\(.+\\)$
+      3    0.0%    0.0%  RegExp: ^\\d
+      3    0.0%    0.0%  RegExp: ^(eslint(-\\w+){0\,3}|exported|globals?)(\\s|$)
+      3    0.0%    0.0%  RegExp: [_n]
+      2    0.0%    0.0%  RegExp: ^v[0-5]\\.
+      2    0.0%    0.0%  RegExp: \\s+
+      2    0.0%    0.0%  RegExp: \\*?\\s*@jsx\\s+([^\\s]+) {1}
+      2    0.0%    0.0%  RegExp: [|\\\\{}()[\\]^$+*?.]
+      2    0.0%    0.0%  RegExp: [a-f0-9]
+      2    0.0%    0.0%  RegExp: [\\s\,]+
+      2    0.0%    0.0%  RegExp: (^|!)D:/transfar/bms
+      2    0.0%    0.0%  RegExp: ([A-Z])
+      2    0.0%    0.0%  Function: ~inherits D:\transfar\bms\node_modules\bluebird\js\release\util.js:27:24
+      2    0.0%    0.0%  Function: ~Function: ~Join native array.js:121:14
+      1    0.0%    0.0%  RegExp: x(\\s#2|$)
+      1    0.0%    0.0%  RegExp: if\\s*\\([^)]+\\)\\s*\\{\\s*\\}(?!\\s*else)
+      1    0.0%    0.0%  RegExp: data1([^0-9]) {1}
+      1    0.0%    0.0%  RegExp: ^\\s*:local\\s*\\((.+?)\\)\\s*$
+      1    0.0%    0.0%  RegExp: ^\\/dll\\/?(?=\\/|$)
+      1    0.0%    0.0%  RegExp: ^[gimuy]*$ {1}
+      1    0.0%    0.0%  RegExp: ^[gimuy]*$
+      1    0.0%    0.0%  RegExp: ^[a-z]|\\-
+      1    0.0%    0.0%  RegExp: ^[^\\\\\\]-]
+      1    0.0%    0.0%  RegExp: ^[ ]+
+      1    0.0%    0.0%  RegExp: ^[ \\t]+$
+      1    0.0%    0.0%  RegExp: ^(\\s*):local\\s*\\((.+?)\\)
+      1    0.0%    0.0%  RegExp: ^([A-Z]:)?$
+      1    0.0%    0.0%  RegExp: ^((?:\\+_|\\+)?)\\s*:
+      1    0.0%    0.0%  RegExp: ^#!([^\\r\\n]+)
+      1    0.0%    0.0%  RegExp: ^#
+      1    0.0%    0.0%  RegExp: \\r\\n?|\\n|\\u2028|\\u2029 {1}
+      1    0.0%    0.0%  RegExp: \\r\\n?|\\n|\\u2028|\\u2029
+      1    0.0%    0.0%  RegExp: \\bHTTPS\\b
+      1    0.0%    0.0%  RegExp: \\/\\*# sourceMappingURL=[^*]+\\*\\/
+      1    0.0%    0.0%  RegExp: \\/+
+      1    0.0%    0.0%  RegExp: \\.mjs$
+      1    0.0%    0.0%  RegExp: \\.json$
+      1    0.0%    0.0%  RegExp: \\*?\\s*@jsx\\s+([^\\s]+)
+      1    0.0%    0.0%  RegExp: [\\\\\\/]
+      1    0.0%    0.0%  RegExp: [\\/<\\(]([^:\\/]+):(\\d+):(?:\\d+)\\)?\\s*$
+      1    0.0%    0.0%  RegExp: (^|[^:"'=])::\\-webkit\\-input\\-placeholder
+      1    0.0%    0.0%  RegExp: (^\\s+)|(/\\*([\\s\\S]*?)\\*/)|("((?:[^\\\\"]|\\\\.)*)")|('((?:[^\\\\']|\\\\.)*)')|(url\\((\\s*)("(?:[^\\\\"]|\\\\.)*")(\\s*)\\))|(url\\((\\s*)('(?:[^\\\\']|\\\\.)*')(\\s*)\\))|(url\\((\\s*)((?:[^\\\\)'"]|\\\\.)*)(\\s*)\\))|(([\\w-]+)\\((\\s*))|((\\s*)(\\)))|(\,(\\s*))|(\\s+$)|(\\s+)|([^\\s\,)]+)
+      1    0.0%    0.0%  RegExp: (.*?[\\\\\\/]+)
+      1    0.0%    0.0%  RegExp: ( x($| )|a #3)
+      1    0.0%    0.0%  LazyCompile: *updateHashWithMeta D:\transfar\bms\node_modules\webpack\lib\NormalModule.js:543:20
+      1    0.0%    0.0%  Function: ~classString D:\transfar\bms\node_modules\bluebird\js\release\util.js:265:21
+      1    0.0%    0.0%  Function: ~Function: ~updateHash D:\transfar\bms\node_modules\webpack\lib\AsyncDependenciesBlock.js:22:12
+
+ [C++]:
+   ticks  total  nonlib   name
+
+ [Summary]:
+   ticks  total  nonlib   name
+    430    0.7%    0.7%  JavaScript
+      0    0.0%    0.0%  C++
+    596    0.9%    0.9%  GC
+     50    0.1%          Shared libraries
+  62718   97.2%          Unaccounted
+
+ [C++ entry points]:
+   ticks    cpp   total   name
+
+ [Bottom up (heavy) profile]:
+  Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 2.0% are not shown.
+
+   ticks parent  name
+  62718   97.2%  UNKNOWN
+   4687    7.5%    C:\Program Files\nodejs\node.exe
+

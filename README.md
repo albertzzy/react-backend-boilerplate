@@ -20,3 +20,8 @@ file-loader  和 HtmlWebpackPlugin 冲突[https://stackoverflow.com/questions/43
 ant-design组件的样式加载应该先把全局样式加载，不然回退到一个没有引用任何组件的页面，会受到组件页面带着的全局样式影响。
 
 [https://stackoverflow.com/questions/28223040/window-not-defined-error-when-using-extract-text-webpack-plugin-react#](https://stackoverflow.com/questions/28223040/window-not-defined-error-when-using-extract-text-webpack-plugin-react#)
+
+
+
+cpu使用率暴涨至99%
+因为设置了webpackMiddleware 的watchOptions的poll 参数设为了true

@@ -18,7 +18,7 @@ app.use('/dll',express.static(path.resolve(__dirname,'../dev/dll')));
 app.use(webpackMiddleware(compiler,{
     watchOptions:{
         aggregateTimeout:300,
-        poll: true
+        poll:1000
     },
 
     index:"/index.html",
