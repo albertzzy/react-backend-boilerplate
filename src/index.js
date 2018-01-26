@@ -13,6 +13,7 @@ import rootRoutes from './routes/rootRoutes';
 // const history = syncHistoryWithStore(browserHistory, store)
 
 
+import './globalIndex.less';
 
 
 

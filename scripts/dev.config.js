@@ -50,6 +50,7 @@ module.exports = {
 
             {
                 test:/\.less$/,
+                exclude:/globalIndex/,
                 use:[
                     {
                         loader:'style-loader'
@@ -72,6 +73,26 @@ module.exports = {
                 ]
 
             },
+
+            {
+                test:/\.less$/,
+                include:/globalIndex/,
+                use:[
+                    {
+                        loader:'style-loader'
+                    },
+                    {
+                        loader:'css-loader'
+                    },
+                    {
+                        loader:'postcss-loader'
+                    },
+                    {
+                        loader:'less-loader'
+                    }
+                ]  
+            },
+
 
             {
                 test:/\.css$/,

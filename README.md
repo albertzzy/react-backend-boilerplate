@@ -25,3 +25,8 @@ ant-design组件的样式加载应该先把全局样式加载，不然回退到�
 
 cpu使用率暴涨至99%
 因为设置了webpackMiddleware 的watchOptions的poll 参数设为了true
+
+
+iconfont 本地化（antd 的iconfont默认引用的是ali cdn的资源）
+1. 放弃按需加载，`.babelrc` 里 不设置`style`属性
+2. 修改webpack less-loader，分成antd全局样式和其他less 文件分开打包
