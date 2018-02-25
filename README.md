@@ -30,3 +30,6 @@ cpu使用率暴涨至99%
 iconfont 本地化（antd 的iconfont默认引用的是ali cdn的资源）
 1. 放弃按需加载，`.babelrc` 里 不设置`style`属性
 2. 修改webpack less-loader，分成antd全局样式和其他less 文件分开打包
+
+
+[https://stackoverflow.com/questions/28223040/window-not-defined-error-when-using-extract-text-webpack-plugin-react](https://stackoverflow.com/questions/28223040/window-not-defined-error-when-using-extract-text-webpack-plugin-react)
