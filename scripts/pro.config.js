@@ -8,8 +8,8 @@ const HtmlWebpackIncludeAssetsPlugin = require('html-webpack-include-assets-plug
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 const ExtractTextPlugin = require("extract-text-webpack-plugin");
 
-const extractCSS = new ExtractTextPlugin('/[name].[contenthash:8].css');
-const extractLESS = new ExtractTextPlugin('/[name].[contenthash:8].css');
+const extractCSS = new ExtractTextPlugin('[name].[contenthash:8].css');
+const extractLESS = new ExtractTextPlugin('[name].[contenthash:8].css');
 
 
 
@@ -52,6 +52,32 @@ module.exports = {
 
             {
                 test:/\.less$/,
+                exclude:/globalIndex/,
+                use:[
+                    {
+                        loader:'style-loader'
+                    },
+                    {
+                        loader:'css-loader',
+                        options:{
+                            modules:true,
+                            sourceMap:true,
+                            localIdentName: '[path][name]__[local]--[hash:base64:5]',
+                            importLoaders:2
+                        }
+                    },
+                    {
+                        loader:'postcss-loader'
+                    },
+                    {
+                        loader:'less-loader'
+                    }
+                ]
+            },
+
+            {
+                test:/\.less$/,
+                include:/globalIndex/,
                 use:extractLESS.extract({
                     fallback:'style-loader',
                     use:[
@@ -64,10 +90,10 @@ module.exports = {
                         {
                             loader:'less-loader'
                         }
-                    ]
+                    ]  
                 })
-
             },
+
 
             {
                 test:/\.css$/,
@@ -155,7 +181,14 @@ module.exports = {
     },
 
     resolve:{
-        extensions:['.web.jsx', '.web.js', '.js', '.jsx', '.json','.less','.css']
+        extensions:['.web.jsx', '.web.js', '.js', '.jsx', '.json','.less','.css'],
+        alias:{
+            STYLES:path.resolve(__dirname,'../src/commons/styles/'),
+            COMPONENTS:path.resolve(__dirname,'../src/commons/components/'),
+            ACTIONS:path.resolve(__dirname,'../src/actions/'),
+            fonts: path.resolve(__dirname,'../src/commons/styles/iconfont/'),
+            IMGS: path.resolve(__dirname,'../src/commons/styles/imgs/')
+        }
 
     },
 

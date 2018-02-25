@@ -112,7 +112,16 @@ module.exports = {
 
 
             {
-                test: /\.woff(\?v=\d+\.\d+\.\d+)?$/,
+                test: /\.woff(\?t=.*)?$/,
+                loader: 'url-loader',
+                options: {
+                //   limit: 10000,
+                //   minetype: 'application/font-woff',
+                },
+            },
+
+            {
+                test: /\.woff2(\?t=.*)?$/,
                 loader: 'url-loader',
                 options: {
                   limit: 10000,
@@ -121,24 +130,16 @@ module.exports = {
             },
 
             {
-                test: /\.woff2(\?v=\d+\.\d+\.\d+)?$/,
+                test: /\.ttf(\?t=.*)?$/,
                 loader: 'url-loader',
                 options: {
                   limit: 10000,
-                  minetype: 'application/font-woff',
+                  fallback:'file-loader',
+                //   minetype: 'application/octet-stream',
                 },
             },
 
-            {
-                test: /\.ttf(\?v=\d+\.\d+\.\d+)?$/,
-                loader: 'url-loader',
-                options: {
-                  limit: 10000,
-                  minetype: 'application/octet-stream',
-                },
-            },
-
-            { test: /\.eot(\?v=\d+\.\d+\.\d+)?$/,
+            { test: /\.eot(\?t=.*)?$/,
                 loader: 'url-loader',
                 options: {
                   limit: 10000,
@@ -147,7 +148,7 @@ module.exports = {
             },
 
             {
-                test: /\.svg(\?v=\d+\.\d+\.\d+)?$/,
+                test: /\.svg(\?t=.*)?$/,
                 loader: 'url-loader',
                 options: {
                   limit: 10000,
@@ -177,8 +178,14 @@ module.exports = {
     },
 
     resolve:{
-        extensions:['.web.jsx', '.web.js', '.js', '.jsx', '.json','.less','.css']
-
+        extensions:['.web.jsx', '.web.js', '.js', '.jsx', '.json','.less','.css'],
+        alias:{
+            STYLES:path.resolve(__dirname,'../src/commons/styles/'),
+            COMPONENTS:path.resolve(__dirname,'../src/commons/components/'),
+            ACTIONS:path.resolve(__dirname,'../src/actions/'),
+            fonts: path.resolve(__dirname,'../src/commons/styles/iconfont/'),
+            IMGS: path.resolve(__dirname,'../src/commons/styles/imgs/')
+        }
     },
 
     externals:{
@@ -237,7 +244,7 @@ module.exports = {
             openAnalyzer: true,
             generateStatsFile: true,
             statsFilename: 'stats.json'
-        }) */
+        }), */
         new webpack.DefinePlugin({
             DEV:JSON.stringify(true)
         })

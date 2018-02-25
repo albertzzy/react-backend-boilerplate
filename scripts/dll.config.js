@@ -10,7 +10,7 @@ module.exports = (env)=>{
 			extensions: [".js", ".jsx"]
 		},
 		entry: {
-			vendor:['react','react-router','redux','react-redux','react-dom']
+			vendor:['react','react-router','redux','react-redux','react-dom','axios']
 		},
 		output: {},
 		plugins:[]
